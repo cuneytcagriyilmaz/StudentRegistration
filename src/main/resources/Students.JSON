@@ -1,0 +1,8 @@
+[
+  {"name":"ali", "surname":"sahin", "age": 18},
+  {"name":"ahmet", "surname":"yildirim", "age": 15},
+  {"name":"ayse", "surname":"sevinc", "age": 13},
+  {"name":"cagri", "surname":"yilmaz", "age": 26},
+  {"name":"cuneyt", "surname":"ozturk", "age": 25},
+  {"name":"ebru", "surname":"öz", "age": 21}
+]
